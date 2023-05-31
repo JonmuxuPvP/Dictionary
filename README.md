@@ -15,4 +15,4 @@
 ## Why this project now? Lol
 I enjoy being a home programmer that helps other people with quick web applications. This is yet another case where a friend of mine needed a simple dictionary for the web, so I delivered.
 
-The purpose of the project is to learn how to work under a short and limited time, as it helps me develop a much better mindset when it comes to programming.
+The purpose of the project is to learn how to work under a short and limited amount time, as it helps me develop a much better mindset when it comes to programming.
