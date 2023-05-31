@@ -1,0 +1,97 @@
+[
+	{
+		"name": "Gato",
+		"description": "Felino peludo",
+		"path": "/assets/cat.png"
+	},
+
+	{
+		"name": "Garrapata",
+		"description": "asquete peludo",
+		"path": "/assets/garrapata.png"
+	},
+
+	{
+		"name": "Perro",
+		"description": "Canino peludo",
+		"path": "/assets/dog.png"
+	},
+
+	{
+		"name": "Perra",
+		"description": "peludo",
+		"path": "/assets/dick.png"
+	},
+
+	{
+		"name": "Gato",
+		"description": "Felino peludo",
+		"path": "/assets/cat.png"
+	},
+
+	{
+		"name": "Garrapata",
+		"description": "asquete peludo",
+		"path": "/assets/garrapata.png"
+	},
+
+	{
+		"name": "Perro",
+		"description": "Canino peludo",
+		"path": "/assets/dog.png"
+	},
+
+	{
+		"name": "Perra",
+		"description": "peludo",
+		"path": "/assets/dick.png"
+	},
+
+	{
+		"name": "Gato",
+		"description": "Felino peludo",
+		"path": "/assets/cat.png"
+	},
+
+	{
+		"name": "Garrapata",
+		"description": "asquete peludo",
+		"path": "/assets/garrapata.png"
+	},
+
+	{
+		"name": "Perro",
+		"description": "Canino peludo",
+		"path": "/assets/dog.png"
+	},
+
+	{
+		"name": "Perra",
+		"description": "peludo",
+		"path": "/assets/dick.png"
+	},
+
+	{
+		"name": "Gato",
+		"description": "Felino peludo",
+		"path": "/assets/cat.png"
+	},
+
+	{
+		"name": "Garrapata",
+		"description": "asquete peludo",
+		"path": "/assets/garrapata.png"
+	},
+
+	{
+		"name": "Perro",
+		"description": "Canino peludo",
+		"path": "/assets/dog.png"
+	},
+
+	{
+		"name": "Perra",
+		"description": "peludo",
+		"path": "/assets/dick.png"
+	}
+]
