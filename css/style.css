@@ -1,0 +1,141 @@
+@import url("./reset.css");
+
+:root {
+	--primary-color: #1E1E1E;
+	--secondary-color: #121212;
+
+	--primary-text-color: #DEDEDE;
+	--secondary-text-color: #717171;
+	--error-text-color: #FC8692;
+}
+
+body {
+	font-family: "Courier New";
+
+	background-color: var(--secondary-color);
+	color: var(--primary-text-color);
+}
+
+header, footer {
+	display: flex;
+	align-items: center;
+
+
+	height: 5%;
+	background-color: var(--primary-color);
+
+	padding: 10px;
+
+	box-sizing: border-box;
+}
+
+footer {
+	margin-top: auto;
+	justify-content: space-between;
+}
+
+footer > img {
+	width: 2%;	
+}
+
+main {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	gap: 40px;
+	flex-direction: column;
+
+	height: 90%;
+	box-sizing: border-box;
+}
+
+main > h1 {
+	text-transform: uppercase;
+	font-size: 3em;
+
+
+}
+
+main > input {
+	width: 40%;
+	height: 40px;
+
+	font-size: 1.5em;
+	padding: 30px;
+
+	border-radius: 30px;
+
+}
+
+.modal-window {
+    background-color: black;
+    color: white;
+
+    border-radius: 20px;
+
+    width: 70%;
+    height: 70%;
+
+    min-width: 300px;
+}
+
+.dimmed-background {
+    width: 100%;
+    height: 100%;
+
+    position: absolute;
+
+    background-color: rgba(15, 15, 15, 0.6);
+}
+
+.fade-in {
+    animation: fadeIn 0.2s linear forwards;
+}
+
+.fade-out {
+    animation: fadeOut 0.2s linear forwards;
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+@keyframes fadeOut {
+    0% { opacity: 1; }
+    100% { opacity: 0; }
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row-direction {
+    flex-direction: row;
+}
+
+.column-direction {
+    flex-direction: column;
+}
+
+.entries {
+	width: 90%;
+
+	padding: 40px;
+
+	font-size: 1.5em;
+	text-align: center;
+
+	overflow: scroll;
+}
+
+.entries div h1 {
+	font-size: 3em;
+}
+
+.entries div p {
+	margin: 21px 0;
+}
