@@ -6,12 +6,16 @@
 	</head>
 	<body>
 		<header>
-			<button id="menu">Menu</button>
+			<img src="./assets/menu.png" id="menu">	
 		</header>
 
 		<main>
 			<h1>Abecedario de la construcción</h1>
-			<input type="text" placeholder="Inserta una palabra">
+			<div class="form">
+				<input type="text" placeholder="Inserta una palabra" id="search-bar">
+				<button id="search-button">Buscar</button>
+			</div>
+			<p class="error-message" id="error-message"></p>
 		</main>
 
 		<footer>
