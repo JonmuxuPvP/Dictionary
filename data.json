@@ -267,5 +267,101 @@
 		"name": "Llaga",
 		"description": "Junta entre dos ladrillos de la misma hilada.",
 		"path": ""
+	},
+
+	{
+		"name": "Hilada",
+		"description": "Serie horizontal de piezas, como ladrillos, sillares o bloques, que conforman los muros de un edificio.",
+		"path": ""
+	},
+
+	{
+		"name": "Mocheta",
+		"description": "Ángulo diedro entrante, que se deja o se abre en la esquina de una pared o resulta al encontrarse el plano superior de un miembro arquitectónico con un paramento vertical.",
+		"path": ""
+	},
+
+	{
+		"name": "Pretil",
+		"description": "Muro de poca altura, formado por la elevación de los muros exteriores de un edificio que sobresale por encima de la cubierta.",
+		"path": ""
+	},
+
+	{
+		"name": "Coqueras",
+		"description": "Huecos o alvéolos en la composición del hormigón formados por un proceso de fraguado y endurecido insuficiente.",
+		"path": ""
+	},
+
+	{
+		"name": "Tabica",
+		"description": "O contrahuella, es una tablilla con que se cubre un hueco, como el de una socarrena o el del frente de un escalón de madera.",
+		"path": ""
+	},
+
+	{
+		"name": "Rollizo",
+		"description": "Dicho de un madero: En forma de rollo.",
+		"path": ""
+	},
+
+	{
+		"name": "Escuadría",
+		"description": "Conjunto de las dos dimensiones de la sección transversal de una pieza de madera que está o ha de ser labrada a escuadra.",
+		"path": ""
+	},
+
+	{
+		"name": "Fenda",
+		"description": "Raja o hendidura al hilo en la madera.",
+		"path": ""
+	},
+
+	{
+		"name": "Cabios",
+		"description": "Vara o listón que se atraviesa a las vigas para formar suelos, techos, armaduras, bordes de chimenea…",
+		"path": ""
+	},
+
+	{
+		"name": "Poliestireno expandido",
+		"description": "Material plástico espumado compuesto en un 98% de aire, muy ligero y a la vez resistente, que además ofrece excelentes propiedades como aislante térmico y aislante acústico.",
+		"path": ""
+	},
+
+	{
+		"name": "Poliestireno extruido",
+		"description": "De los mejores materiales plásticos aislantes, parecido al expandido, pero es más compacto y no suelta viruta (suele tener un color azul claro).",
+		"path": ""
+	},
+
+	{
+		"name": "Cota de rasante",
+		"description": "Es la línea que define la inclinación o pendiente de un terreno, calle o camino con respecto al plano horizontal.",
+		"path": ""
+	},
+
+	{
+		"name": "Forjado autárquico",
+		"description": "Es la patente de un tipo de forjado unidireccional que separa las viguetas mediante un rasillón cerámico con la intención de crear un espacio. Además, se construyen in situ, que es su principal característica.",
+		"path": ""
+	},
+
+	{
+		"name": "Revoltón cerámico",
+		"description": "Es una pieza cerámica que se coloca en el techo de casas, cobertizos y en cualquier otro lugar en el que se quiera dar un aspecto rústico. Su uso es meramente decorativo, se fabrica en distintos acabados de color y textura.",
+		"path": ""
+	},
+
+	{
+		"name": "Rasillón cerámico",
+		"description": "Es una pieza de gran formato que presenta un machihembrado para su colocación en seco mediante el ensamblaje de unas piezas con otras. La utilización más generalizada del tablero cerámico es como elemento de soporte para cubiertas.",
+		"path": ""
+	},
+
+	{
+		"name": "Tongada",
+		"description": "Capa con que se cubre o baña algo.",
+		"path": ""
 	}
 ]
