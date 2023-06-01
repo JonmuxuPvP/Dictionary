@@ -27,6 +27,13 @@ header, footer {
 	box-sizing: border-box;
 }
 
+header >  img {
+	background-color: transparent;
+	height: 170%;
+	cursor: pointer;
+}
+
+
 footer {
 	margin-top: auto;
 	justify-content: space-between;
@@ -51,11 +58,19 @@ main {
 main > h1 {
 	text-transform: uppercase;
 	font-size: 3em;
-
-
 }
 
-main > input {
+.form {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	gap: 20px;
+
+	width: 100%;	
+}
+
+.form > input {
 	width: 40%;
 	height: 40px;
 
@@ -63,11 +78,27 @@ main > input {
 	padding: 30px;
 
 	border-radius: 30px;
+}
 
+.form > button {
+	width: 70px;
+	height: 60px;
+
+	border-radius: 15px;
+}
+
+.error-message {
+	height: 10px;
+	color: var(--error-text-color);
+}
+
+.back-button {
+	height: 70%;
+	cursor: pointer;
 }
 
 .modal-window {
-    background-color: black;
+    background-color: var(--primary-color);
     color: white;
 
     border-radius: 20px;
@@ -135,5 +166,43 @@ main > input {
 }
 
 .entries div p {
-	margin: 21px 0;
+	margin: 20px 0;
+	cursor: pointer;
+
+	transition-property: font-size;
+	transition-duration: 0.1s;
+}
+
+.entries div p:hover {
+	font-size: 1.2em;
+	transition-property: font-size;
+	transition-duration: 0.1s;
+}
+
+.entry {
+	display: flex;
+	flex-direction: column;
+
+	width: 90%;
+	height: 90%;
+
+	gap: 20px;
+}
+
+.entry > div {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.entry h1, .entry p {
+	text-align: left;
+}
+
+.entry h1 {
+	font-size: 3.5em;
+}
+
+.entry p {
+	font-size: 1.2em;
 }
