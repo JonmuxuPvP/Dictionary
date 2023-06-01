@@ -20,9 +20,7 @@ header, footer {
 	display: flex;
 	align-items: center;
 
-
 	height: 5%;
-	background-color: var(--primary-color);
 
 	padding: 10px;
 
