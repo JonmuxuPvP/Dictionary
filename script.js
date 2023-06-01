@@ -4,7 +4,7 @@ const menu = document.getElementById("menu");
 const data = await getData();
 
 async function getData() {
-	const response = await fetch("/data.json");
+	const response = await fetch("./data.json");
 	const json = await response.json();
 	return json;
 }
