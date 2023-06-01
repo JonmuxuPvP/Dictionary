@@ -1,97 +1,271 @@
 [
 	{
-		"name": "Gato",
-		"description": "Felino peludo",
-		"path": "/assets/cat.png"
+		"name": "Albardilla",
+		"description": "Una albardilla, en arquitectura, es un remate o tejadillo en la parte superior de un muro para protegerlo de la lluvia o de otras inclemencias meteorológicas. Básicamente, la albardilla puede tener una única dirección, a un agua, o bien ser de caballete, con pendientes a ambos lados de un punto alto central.",
+		"path": ""
 	},
 
 	{
-		"name": "Garrapata",
-		"description": "asquete peludo",
-		"path": "/assets/garrapata.png"
+		"name": "Alcorque",
+		"description": "Hoyo que se hace al pie de las plantas para detener el agua en los riegos.",
+		"path": ""
 	},
 
 	{
-		"name": "Perro",
-		"description": "Canino peludo",
-		"path": "/assets/dog.png"
+		"name": "Alfarje",
+		"description": "Techo con maderas labradas y entrelazadas artísticamente, dispuesto o no para pisar encima.",
+		"path": ""
 	},
 
 	{
-		"name": "Perra",
-		"description": "peludo",
-		"path": "/assets/dick.png"
+		"name": "Alféizar",
+		"description": "Rebajo en ángulo recto que forma el telar de una puerta o ventana con el derrame donde encajan las hojas de la puerta con que se cierra.",
+		"path": ""
 	},
 
 	{
-		"name": "Gato",
-		"description": "Felino peludo",
-		"path": "/assets/cat.png"
+		"name": "Aparejo",
+		"description": "Forma y modo de disponer, tallar y enlazar los materiales de una construcción.",
+		"path": ""
 	},
 
 	{
-		"name": "Garrapata",
-		"description": "asquete peludo",
-		"path": "/assets/garrapata.png"
+		"name": "Arriostrar",
+		"description": "Atar con riostras, es decir, con piezas metálicas, de madera o de hormigón que sirven para asegurar la rigidez de un elemento constructivo.",
+		"path": ""
 	},
 
 	{
-		"name": "Perro",
-		"description": "Canino peludo",
-		"path": "/assets/dog.png"
+		"name": "Adaraja",
+		"description": "Las adarajas son las piedras o ladrillos salientes dejados alternativamente de hilada en hilada sobre un paramento de muro de modo que siguiendo la misma alineación se puedan ligar las hiladas de la nueva construcción a las de la antigua.",
+		"path": ""
 	},
 
 	{
-		"name": "Perra",
-		"description": "peludo",
-		"path": "/assets/dick.png"
+		"name": "Superficie útil",
+		"description": "Es el espacio aprovechable del inmueble; es decir, el área que se puede pisar. Se calcula restando los metros cuadrados estructurales (pilares, muros, y otros elementos imprescindibles) a los metros cuadrados totales. La superficie útil incluye paredes, armarios y otros componentes que podrían eliminarse.",
+		"path": ""
 	},
 
 	{
-		"name": "Gato",
-		"description": "Felino peludo",
-		"path": "/assets/cat.png"
+		"name": "Superficie construida",
+		"description": "Es la comprendida entre los contornos del edificio; corresponde a los metros cuadrados totales de la vivienda o inmueble, incluyendo elementos estructurales (pilares, tabiques, columnas, muros de carga) y muros perimetrales. Suele ser entre un 10% y un 20% mayor que la superficie útil.",
+		"path": ""
 	},
 
 	{
-		"name": "Garrapata",
-		"description": "asquete peludo",
-		"path": "/assets/garrapata.png"
+		"name": "Edificabilidad",
+		"description": "Posibilidad de edificación sobre un suelo según las normas urbanísticas.",
+		"path": ""
 	},
 
 	{
-		"name": "Perro",
-		"description": "Canino peludo",
-		"path": "/assets/dog.png"
+		"name": "Rasante",
+		"description": "Recta imaginaria que, mediante un determinado ángulo de inclinación, define la envolvente dentro de la cual puede desarrollarse un proyecto de edificación.",
+		"path": ""
 	},
 
 	{
-		"name": "Perra",
-		"description": "peludo",
-		"path": "/assets/dick.png"
+		"name": "Ocupación",
+		"description": "Es un parámetro que define el número de metros cuadrados de superficie de parcela que podemos dedicar a la construcción de una edificación.",
+		"path": ""
 	},
 
 	{
-		"name": "Gato",
-		"description": "Felino peludo",
-		"path": "/assets/cat.png"
+		"name": "Red de acometida",
+		"description": "Conexión aérea o subterránea que conecta en las instalaciones eléctricas la parte de la red de distribución de la empresa suministradora con la caja o cajas generales de protección.",
+		"path": ""
 	},
 
 	{
-		"name": "Garrapata",
-		"description": "asquete peludo",
-		"path": "/assets/garrapata.png"
+		"name": "Dintel",
+		"description": "Pieza horizontal superior de puertas, ventanas y otros huecos, apoyada en sus extremos sobre las jambas y destinada a soportar cargas.",
+		"path": ""
 	},
 
 	{
-		"name": "Perro",
-		"description": "Canino peludo",
-		"path": "/assets/dog.png"
+		"name": "Jambas",
+		"description": "Cada una de las dos piezas que, dispuestas verticalmente en los dos lados de una puerta o ventana, sostienen el dintel o el arco de ella.",
+		"path": ""
 	},
 
 	{
-		"name": "Perra",
-		"description": "peludo",
-		"path": "/assets/dick.png"
+		"name": "Enlucido de yeso",
+		"description": "Revestimiento continuo de yeso blanco que constituye la capa de terminación aplicada sobre la superficie del guarnecido.",
+		"path": ""
+	},
+
+	{
+		"name": "Revoco de mortero",
+		"description": "Revestimiento de mortero hecho con cal, cemento o mixto que sirve tanto para una pared interior como para una exterior, que se aplica después del enfoscado.",
+		"path": ""
+	},
+
+	{
+		"name": "Yeso a buena vista",
+		"description": "Procedimiento más rudimentario, cuyo acabado final depende en gran medida de la pericia del yesista.",
+		"path": ""
+	},
+
+	{
+		"name": "Solicitación mecánica",
+		"description": "Reacción interna que se produce en una sección de un sólido como consecuencia de las fuerzas externas aplicadas sobre el mismo.",
+		"path": ""
+	},
+
+	{
+		"name": "Viga",
+		"description": "Un elemento estructural lineal que trabaja principalmente a flexión. En las vigas, la longitud predomina sobre las otras dos dimensiones y suele ser horizontal.",
+		"path": ""
+	},
+
+	{
+		"name": "Zuncho de borde",
+		"description": "Es un recurso importante que aporta monolitismo a los Forjados Bidireccionales y que constituye un nervio de banda soporte.",
+		"path": ""
+	},
+
+	{
+		"name": "Zuncho de atado",
+		"description": "Construcción que se hace en el perímetro de una superficie con hormigón y armadura de hierro para soportar el peso y tensiones de las construcciones que hagamos encima.",
+		"path": ""
+	},
+
+	{
+		"name": "Jácena",
+		"description": "O viga maestra que, tendida sobre pilares o columnas, sirve para sostener las cabezas de otros maderos también horizontales, así como para sustentar cuerpos superiores del edificio.",
+		"path": ""
+	},
+
+	{
+		"name": "Brochal",
+		"description": "Viga que recibe la carga de otras más cortas, cuando en el forjado de un piso se deja un hueco para la escalera, el ascensor u otros usos.",
+		"path": ""
+	},
+
+	{
+		"name": "Viguetas",
+		"description": "Barra de hierro laminado, destinada a la edificación.",
+		"path": ""
+	},
+
+	{
+		"name": "Bovedilla",
+		"description": "Bóveda pequeña que se forja entre viga y viga del techo de una habitación, con piezas cerámicas, hormigón, escayola u otro material.",
+		"path": ""
+	},
+
+	{
+		"name": "Forjado",
+		"description": "Elemento que forma la estructura resistente de un piso, suelo o cubierta, sustentado a su vez por pilares, vigas o muros.",
+		"path": ""
+	},
+
+	{
+		"name": "Forjado unidireccional",
+		"description": "Se apoyan o tienen la unión de la estructura portante a través de los bordes y vigas, donde los elementos resistentes se disponen a lo largo de la construcción en una sola dirección.",
+		"path": ""
+	},
+
+	{
+		"name": "Forjado reticular",
+		"description": "Tipo de forjado constituido por una cápsula de nervios de hormigón armado, de pequeña anchura y a corta distancia unos de otros, de tal forma que las cargas se transmiten en las cinco direcciones simultáneamente.",
+		"path": ""
+	},
+
+	{
+		"name": "Vano",
+		"description": "En una estructura de construcción, distancia libre entre dos soportes (pilares de un pórtico) y, en un puente, espacio libre entre dos pilas o entre dos estribos consecutivos.",
+		"path": ""
+	},
+
+	{
+		"name": "Luz",
+		"description": "Dimensión horizontal interior de un vano o de una habitación o la distancia horizontal entre los apoyos de un arco, viga, etc.",
+		"path": ""
+	},
+
+	{
+		"name": "Pórtico",
+		"description": "Es un sistema estructural formado por vigas y pilares. Las vigas apoyan sobre los pilares transmitiéndoles la carga. Si la unión entre viga y pilar es articulada, la visa solo transmite a los pilares carga vertical. En este caso los pilares funcionan a compresión simple (sólo axil).",
+		"path": ""
+	},
+
+	{
+		"name": "Crujía",
+		"description": "Distancia horizontal entre pórticos.",
+		"path": ""
+	},
+
+	{
+		"name": "Tracción",
+		"description": "Esfuerzo a que está sometido un cuerpo por la acción de dos fuerzas opuestas que tienden a alargarlo.",
+		"path": ""
+	},
+
+	{
+		"name": "Compresión",
+		"description": "Presión a la que está sometido un cuerpo por la acción de fuerzas opuestas que tienden a disminuir su volumen.",
+		"path": ""
+	},
+
+	{
+		"name": "Flexión",
+		"description": "Acción y efecto de doblar un sólido.",
+		"path": ""
+	},
+
+	{
+		"name": "Cortante",
+		"description": "De cizalla o de cortadura es el esfuerzo interno o resultante de las tensiones paralelas a la sección transversal de un prisma mecánico como por ejemplo una viga o un pilar.",
+		"path": ""
+	},
+
+	{
+		"name": "Torsión",
+		"description": "Acción y efecto de torcer o torcerse algo en forma helicoidal.",
+		"path": ""
+	},
+
+	{
+		"name": "Cuantía geométrica",
+		"description": "Se refiere a la relación entre área de acero respecto al área bruta de hormigón en una sección transversal. Esta sección transversal puede referirse a secciones de columnas, vigas, losas, o incluso zapatas.",
+		"path": ""
+	},
+
+	{
+		"name": "Palustre",
+		"description": "Herramienta de albañilería para manejar y extender la argamasa que consiste en una plancha triangular de metal con un mango de madera acoplado en una pieza que forma un ángulo recto.",
+		"path": ""
+	},
+	
+	{
+		"name": "Enjarje",
+		"description": "Sinónimo de adaraja o encuentro entre uno o varios nervios de una bóveda.",
+		"path": ""
+	},
+	
+	{
+		"name": "Tendel",
+		"description": "Cuerda que se tiende horizontalmente entre dos reglones verticales, para sentar con igualdad las hiladas de ladrillo o piedra.",
+		"path": ""
+	},
+	
+	{
+		"name": "Enfoscado",
+		"description": "Capa de mortero empleada para revestir una pared o un muro. En los enfoscados se puede utilizar mortero de cemento, mortero de cal, mortero de tierra, o bien un mortero bastardo que sería mezcla de los anteriores.",
+		"path": ""
+	},
+	
+	{
+		"name": "Replanteo",
+		"description": "Trazar sobre el terreno, a escala natural, las líneas que marcan los cimientos de un edificio.",
+		"path": ""
+	},
+		
+	{
+		"name": "Llaga",
+		"description": "Junta entre dos ladrillos de la misma hilada.",
+		"path": ""
 	}
 ]
