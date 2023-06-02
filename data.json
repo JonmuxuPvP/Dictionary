@@ -2,366 +2,366 @@
 	{
 		"name": "Albardilla",
 		"description": "Una albardilla, en arquitectura, es un remate o tejadillo en la parte superior de un muro para protegerlo de la lluvia o de otras inclemencias meteorológicas. Básicamente, la albardilla puede tener una única dirección, a un agua, o bien ser de caballete, con pendientes a ambos lados de un punto alto central.",
-		"path": ""
+		"path": "./assets/pictures/albardilla.jpg"
 	},
 
 	{
 		"name": "Alcorque",
 		"description": "Hoyo que se hace al pie de las plantas para detener el agua en los riegos.",
-		"path": ""
+		"path": "./assets/pictures/alcorque.jpg"
 	},
 
 	{
 		"name": "Alfarje",
 		"description": "Techo con maderas labradas y entrelazadas artísticamente, dispuesto o no para pisar encima.",
-		"path": ""
+		"path": "./assets/pictures/alfarje.jpg"
 	},
 
 	{
 		"name": "Alféizar",
 		"description": "Rebajo en ángulo recto que forma el telar de una puerta o ventana con el derrame donde encajan las hojas de la puerta con que se cierra.",
-		"path": ""
+		"path": "./assets/pictures/alféizar.jpg"
 	},
 
 	{
 		"name": "Aparejo",
 		"description": "Forma y modo de disponer, tallar y enlazar los materiales de una construcción.",
-		"path": ""
+		"path": "./assets/pictures/aparejo.png"
 	},
 
 	{
 		"name": "Arriostrar",
 		"description": "Atar con riostras, es decir, con piezas metálicas, de madera o de hormigón que sirven para asegurar la rigidez de un elemento constructivo.",
-		"path": ""
+		"path": "./assets/pictures/arriostrar.jpg"
 	},
 
 	{
 		"name": "Adaraja",
 		"description": "Las adarajas son las piedras o ladrillos salientes dejados alternativamente de hilada en hilada sobre un paramento de muro de modo que siguiendo la misma alineación se puedan ligar las hiladas de la nueva construcción a las de la antigua.",
-		"path": ""
+		"path": "./assets/pictures/adaraja.jpg"
 	},
 
 	{
 		"name": "Superficie útil",
 		"description": "Es el espacio aprovechable del inmueble; es decir, el área que se puede pisar. Se calcula restando los metros cuadrados estructurales (pilares, muros, y otros elementos imprescindibles) a los metros cuadrados totales. La superficie útil incluye paredes, armarios y otros componentes que podrían eliminarse.",
-		"path": ""
+		"path": "./assets/pictures/superficie-útil.png"
 	},
 
 	{
 		"name": "Superficie construida",
 		"description": "Es la comprendida entre los contornos del edificio; corresponde a los metros cuadrados totales de la vivienda o inmueble, incluyendo elementos estructurales (pilares, tabiques, columnas, muros de carga) y muros perimetrales. Suele ser entre un 10% y un 20% mayor que la superficie útil.",
-		"path": ""
+		"path": "./assets/pictures/superficie-construida.png"
 	},
 
 	{
 		"name": "Edificabilidad",
 		"description": "Posibilidad de edificación sobre un suelo según las normas urbanísticas.",
-		"path": ""
+		"path": "./assets/pictures/edificabilidad.png"
 	},
 
 	{
 		"name": "Rasante",
 		"description": "Recta imaginaria que, mediante un determinado ángulo de inclinación, define la envolvente dentro de la cual puede desarrollarse un proyecto de edificación.",
-		"path": ""
+		"path": "./assets/pictures/rasante.jpg"
 	},
 
 	{
 		"name": "Ocupación",
 		"description": "Es un parámetro que define el número de metros cuadrados de superficie de parcela que podemos dedicar a la construcción de una edificación.",
-		"path": ""
+		"path": "./assets/pictures/ocupación.png"
 	},
 
 	{
 		"name": "Red de acometida",
 		"description": "Conexión aérea o subterránea que conecta en las instalaciones eléctricas la parte de la red de distribución de la empresa suministradora con la caja o cajas generales de protección.",
-		"path": ""
+		"path": "./assets/pictures/red-de-acometida.jpg"
 	},
 
 	{
 		"name": "Dintel",
 		"description": "Pieza horizontal superior de puertas, ventanas y otros huecos, apoyada en sus extremos sobre las jambas y destinada a soportar cargas.",
-		"path": ""
+		"path": "./assets/pictures/dintel.png"
 	},
 
 	{
 		"name": "Jambas",
 		"description": "Cada una de las dos piezas que, dispuestas verticalmente en los dos lados de una puerta o ventana, sostienen el dintel o el arco de ella.",
-		"path": ""
+		"path": "./assets/pictures/jambas.jpg"
 	},
 
 	{
 		"name": "Enlucido de yeso",
 		"description": "Revestimiento continuo de yeso blanco que constituye la capa de terminación aplicada sobre la superficie del guarnecido.",
-		"path": ""
+		"path": "./assets/pictures/enlucido-de-yeso.png"
 	},
 
 	{
 		"name": "Revoco de mortero",
 		"description": "Revestimiento de mortero hecho con cal, cemento o mixto que sirve tanto para una pared interior como para una exterior, que se aplica después del enfoscado.",
-		"path": ""
+		"path": "./assets/pictures/revoco-de-mortero.jpg"
 	},
 
 	{
 		"name": "Yeso a buena vista",
 		"description": "Procedimiento más rudimentario, cuyo acabado final depende en gran medida de la pericia del yesista.",
-		"path": ""
+		"path": "./assets/pictures/yeso-a-buena-vista.jpg"
 	},
 
 	{
 		"name": "Solicitación mecánica",
 		"description": "Reacción interna que se produce en una sección de un sólido como consecuencia de las fuerzas externas aplicadas sobre el mismo.",
-		"path": ""
+		"path": "./assets/pictures/solicitación-mecánica.jpg"
 	},
 
 	{
 		"name": "Viga",
 		"description": "Un elemento estructural lineal que trabaja principalmente a flexión. En las vigas, la longitud predomina sobre las otras dos dimensiones y suele ser horizontal.",
-		"path": ""
+		"path": "./assets/pictures/viga.png"
 	},
 
 	{
 		"name": "Zuncho de borde",
 		"description": "Es un recurso importante que aporta monolitismo a los Forjados Bidireccionales y que constituye un nervio de banda soporte.",
-		"path": ""
+		"path": "./assets/pictures/zuncho-de-borde.gif"
 	},
 
 	{
 		"name": "Zuncho de atado",
 		"description": "Construcción que se hace en el perímetro de una superficie con hormigón y armadura de hierro para soportar el peso y tensiones de las construcciones que hagamos encima.",
-		"path": ""
+		"path": "./assets/pictures/zuncho-de-atado.jpg"
 	},
 
 	{
 		"name": "Jácena",
 		"description": "O viga maestra que, tendida sobre pilares o columnas, sirve para sostener las cabezas de otros maderos también horizontales, así como para sustentar cuerpos superiores del edificio.",
-		"path": ""
+		"path": "./assets/pictures/jácena.png"
 	},
 
 	{
 		"name": "Brochal",
 		"description": "Viga que recibe la carga de otras más cortas, cuando en el forjado de un piso se deja un hueco para la escalera, el ascensor u otros usos.",
-		"path": ""
+		"path": "./assets/pictures/brochal.jpg"
 	},
 
 	{
 		"name": "Viguetas",
 		"description": "Barra de hierro laminado, destinada a la edificación.",
-		"path": ""
+		"path": "./assets/pictures/viguetas.png"
 	},
 
 	{
 		"name": "Bovedilla",
 		"description": "Bóveda pequeña que se forja entre viga y viga del techo de una habitación, con piezas cerámicas, hormigón, escayola u otro material.",
-		"path": ""
+		"path": "./assets/pictures/bovedillas.jpg"
 	},
 
 	{
 		"name": "Forjado",
 		"description": "Elemento que forma la estructura resistente de un piso, suelo o cubierta, sustentado a su vez por pilares, vigas o muros.",
-		"path": ""
+		"path": "./assets/pictures/forjado.png"
 	},
 
 	{
 		"name": "Forjado unidireccional",
 		"description": "Se apoyan o tienen la unión de la estructura portante a través de los bordes y vigas, donde los elementos resistentes se disponen a lo largo de la construcción en una sola dirección.",
-		"path": ""
+		"path": "./assets/pictures/forjado-unidireccional.jpg"
 	},
 
 	{
 		"name": "Forjado reticular",
 		"description": "Tipo de forjado constituido por una cápsula de nervios de hormigón armado, de pequeña anchura y a corta distancia unos de otros, de tal forma que las cargas se transmiten en las cinco direcciones simultáneamente.",
-		"path": ""
+		"path": "./assets/pictures/forjado-reticular.jpg"
 	},
 
 	{
 		"name": "Vano",
 		"description": "En una estructura de construcción, distancia libre entre dos soportes (pilares de un pórtico) y, en un puente, espacio libre entre dos pilas o entre dos estribos consecutivos.",
-		"path": ""
+		"path": "./assets/pictures/vano.png"
 	},
 
 	{
 		"name": "Luz",
 		"description": "Dimensión horizontal interior de un vano o de una habitación o la distancia horizontal entre los apoyos de un arco, viga, etc.",
-		"path": ""
+		"path": "./assets/pictures/luz.png"
 	},
 
 	{
 		"name": "Pórtico",
 		"description": "Es un sistema estructural formado por vigas y pilares. Las vigas apoyan sobre los pilares transmitiéndoles la carga. Si la unión entre viga y pilar es articulada, la visa solo transmite a los pilares carga vertical. En este caso los pilares funcionan a compresión simple (sólo axil).",
-		"path": ""
+		"path": "./assets/pictures/pórtico.png"
 	},
 
 	{
 		"name": "Crujía",
 		"description": "Distancia horizontal entre pórticos.",
-		"path": ""
+		"path": "./assets/pictures/crujía.jpg"
 	},
 
 	{
 		"name": "Tracción",
 		"description": "Esfuerzo a que está sometido un cuerpo por la acción de dos fuerzas opuestas que tienden a alargarlo.",
-		"path": ""
+		"path": "./assets/pictures/tracción.jpg"
 	},
 
 	{
 		"name": "Compresión",
 		"description": "Presión a la que está sometido un cuerpo por la acción de fuerzas opuestas que tienden a disminuir su volumen.",
-		"path": ""
+		"path": "./assets/pictures/compresión.png"
 	},
 
 	{
 		"name": "Flexión",
 		"description": "Acción y efecto de doblar un sólido.",
-		"path": ""
+		"path": "./assets/pictures/flexión.png"
 	},
 
 	{
 		"name": "Cortante",
 		"description": "De cizalla o de cortadura es el esfuerzo interno o resultante de las tensiones paralelas a la sección transversal de un prisma mecánico como por ejemplo una viga o un pilar.",
-		"path": ""
+		"path": "./assets/pictures/cortante.png"
 	},
 
 	{
 		"name": "Torsión",
 		"description": "Acción y efecto de torcer o torcerse algo en forma helicoidal.",
-		"path": ""
+		"path": "./assets/pictures/torsión.png"
 	},
 
 	{
 		"name": "Cuantía geométrica",
 		"description": "Se refiere a la relación entre área de acero respecto al área bruta de hormigón en una sección transversal. Esta sección transversal puede referirse a secciones de columnas, vigas, losas, o incluso zapatas.",
-		"path": ""
+		"path": "./assets/pictures/cuantía-geométrica.png"
 	},
 
 	{
 		"name": "Palustre",
 		"description": "Herramienta de albañilería para manejar y extender la argamasa que consiste en una plancha triangular de metal con un mango de madera acoplado en una pieza que forma un ángulo recto.",
-		"path": ""
+		"path": "./assets/pictures/palustre.jpg"
 	},
 	
 	{
 		"name": "Enjarje",
 		"description": "Sinónimo de adaraja o encuentro entre uno o varios nervios de una bóveda.",
-		"path": ""
+		"path": "./assets/pictures/enjarje.jpg"
 	},
 	
 	{
 		"name": "Tendel",
 		"description": "Cuerda que se tiende horizontalmente entre dos reglones verticales, para sentar con igualdad las hiladas de ladrillo o piedra.",
-		"path": ""
+		"path": "./assets/pictures/tendel.jpg"
 	},
 	
 	{
 		"name": "Enfoscado",
 		"description": "Capa de mortero empleada para revestir una pared o un muro. En los enfoscados se puede utilizar mortero de cemento, mortero de cal, mortero de tierra, o bien un mortero bastardo que sería mezcla de los anteriores.",
-		"path": ""
+		"path": "./assets/pictures/enfoscado.jpg"
 	},
 	
 	{
 		"name": "Replanteo",
 		"description": "Trazar sobre el terreno, a escala natural, las líneas que marcan los cimientos de un edificio.",
-		"path": ""
+		"path": "./assets/pictures/replanteo.jpg"
 	},
 		
 	{
 		"name": "Llaga",
 		"description": "Junta entre dos ladrillos de la misma hilada.",
-		"path": ""
+		"path": "./assets/pictures/llaga.png"
 	},
 
 	{
 		"name": "Hilada",
 		"description": "Serie horizontal de piezas, como ladrillos, sillares o bloques, que conforman los muros de un edificio.",
-		"path": ""
+		"path": "./assets/pictures/hilada.png"
 	},
 
 	{
 		"name": "Mocheta",
 		"description": "Ángulo diedro entrante, que se deja o se abre en la esquina de una pared o resulta al encontrarse el plano superior de un miembro arquitectónico con un paramento vertical.",
-		"path": ""
+		"path": "./assets/pictures/mocheta.jpg"
 	},
 
 	{
 		"name": "Pretil",
 		"description": "Muro de poca altura, formado por la elevación de los muros exteriores de un edificio que sobresale por encima de la cubierta.",
-		"path": ""
+		"path": "./assets/pictures/pretil.png"
 	},
 
 	{
 		"name": "Coqueras",
 		"description": "Huecos o alvéolos en la composición del hormigón formados por un proceso de fraguado y endurecido insuficiente.",
-		"path": ""
+		"path": "./assets/pictures/coqueras.jpg"
 	},
 
 	{
 		"name": "Tabica",
 		"description": "O contrahuella, es una tablilla con que se cubre un hueco, como el de una socarrena o el del frente de un escalón de madera.",
-		"path": ""
+		"path": "./assets/pictures/tabica.jpg"
 	},
 
 	{
 		"name": "Rollizo",
 		"description": "Dicho de un madero: En forma de rollo.",
-		"path": ""
+		"path": "./assets/pictures/rollizo.jpg"
 	},
 
 	{
 		"name": "Escuadría",
 		"description": "Conjunto de las dos dimensiones de la sección transversal de una pieza de madera que está o ha de ser labrada a escuadra.",
-		"path": ""
+		"path": "./assets/pictures/escuadría.jpg"
 	},
 
 	{
 		"name": "Fenda",
 		"description": "Raja o hendidura al hilo en la madera.",
-		"path": ""
+		"path": "./assets/pictures/fenda.jpg"
 	},
 
 	{
 		"name": "Cabios",
 		"description": "Vara o listón que se atraviesa a las vigas para formar suelos, techos, armaduras, bordes de chimenea…",
-		"path": ""
+		"path": "./assets/pictures/cabios.jpg"
 	},
 
 	{
 		"name": "Poliestireno expandido",
 		"description": "Material plástico espumado compuesto en un 98% de aire, muy ligero y a la vez resistente, que además ofrece excelentes propiedades como aislante térmico y aislante acústico.",
-		"path": ""
+		"path": "./assets/pictures/poliestireno-expandido.jpg"
 	},
 
 	{
 		"name": "Poliestireno extruido",
 		"description": "De los mejores materiales plásticos aislantes, parecido al expandido, pero es más compacto y no suelta viruta (suele tener un color azul claro).",
-		"path": ""
+		"path": "./assets/pictures/poliestireno-extruido.jpg"
 	},
 
 	{
 		"name": "Cota de rasante",
 		"description": "Es la línea que define la inclinación o pendiente de un terreno, calle o camino con respecto al plano horizontal.",
-		"path": ""
+		"path": "./assets/pictures/cota-de-rasante.png"
 	},
 
 	{
 		"name": "Forjado autárquico",
 		"description": "Es la patente de un tipo de forjado unidireccional que separa las viguetas mediante un rasillón cerámico con la intención de crear un espacio. Además, se construyen in situ, que es su principal característica.",
-		"path": ""
+		"path": "./assets/pictures/forjado-autárquico.png"
 	},
 
 	{
 		"name": "Revoltón cerámico",
 		"description": "Es una pieza cerámica que se coloca en el techo de casas, cobertizos y en cualquier otro lugar en el que se quiera dar un aspecto rústico. Su uso es meramente decorativo, se fabrica en distintos acabados de color y textura.",
-		"path": ""
+		"path": "./assets/pictures/revoltón-cerámico.jpg"
 	},
 
 	{
 		"name": "Rasillón cerámico",
 		"description": "Es una pieza de gran formato que presenta un machihembrado para su colocación en seco mediante el ensamblaje de unas piezas con otras. La utilización más generalizada del tablero cerámico es como elemento de soporte para cubiertas.",
-		"path": ""
+		"path": "./assets/pictures/rasillón-cerámico.jpg"
 	},
 
 	{
 		"name": "Tongada",
 		"description": "Capa con que se cubre o baña algo.",
-		"path": ""
+		"path": "./assets/pictures/tongada.jpg"
 	}
 ]
