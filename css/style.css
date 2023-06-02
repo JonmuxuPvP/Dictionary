@@ -159,6 +159,8 @@ main > h1 {
 	text-align: center;
 
 	overflow: scroll;
+
+	overflow-x: hidden;
 }
 
 .entries div h1 {
