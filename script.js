@@ -93,6 +93,7 @@ function openEntry(entry) {
 	description.innerText = entry.description;
 
 	const picture = document.createElement("img");
+	picture.classList.add("picture");
 	picture.src = entry.path;
 
 	div.append(titleAndButton, description, picture);

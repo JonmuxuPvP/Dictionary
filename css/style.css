@@ -187,6 +187,8 @@ main > h1 {
 	height: 90%;
 
 	gap: 20px;
+
+	overflow: scroll;
 }
 
 .entry > div {
@@ -205,4 +207,9 @@ main > h1 {
 
 .entry p {
 	font-size: 1.2em;
+}
+
+.entry .picture {
+	margin-top: 50px;
+	align-self: center;
 }
